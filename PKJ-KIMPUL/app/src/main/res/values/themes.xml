@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.PKJ" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/brand_purple</item>
+        <item name="colorPrimaryDark">@color/brand_purple</item>
+        <item name="android:statusBarColor">@color/brand_purple</item>
+    </style>
+    <style name="Theme.PKJ.Splash" parent="Theme.PKJ">
+        <item name="android:windowBackground">@drawable/splash</item>
+    </style>
+</resources>
